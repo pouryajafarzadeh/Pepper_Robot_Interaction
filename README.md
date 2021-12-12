@@ -5,3 +5,4 @@ This repository is a python based project that contains interaction between Pepp
 - Face Recognition
 - ### <span style="color:Red">Attention</span>
 Due to the business laws, I can't share all the codes here. If you have any questions you can ask me. Please feel free to contact me.
+![plot](./img/Pepper.jpeg)
